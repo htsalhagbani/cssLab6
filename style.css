@@ -15,7 +15,7 @@ body{
 }
 .first{
     position: absolute;
-    top:280px;
+    top:276px;
     left: 25%;
     width: 50vw;
     border: 0; /* Remove default border */
